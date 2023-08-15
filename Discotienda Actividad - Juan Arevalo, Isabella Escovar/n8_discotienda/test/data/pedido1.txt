@@ -1,0 +1,4 @@
+prueba@prueba.com
+disco1@artista1#cancion2
+disco1#artista1#cancion3
+disco2#artista2#cancion2

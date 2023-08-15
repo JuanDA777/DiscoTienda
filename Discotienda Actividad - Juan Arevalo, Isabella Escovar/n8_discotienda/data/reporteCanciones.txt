@@ -1,0 +1,12 @@
+Reporte de canciones
+Nombre: Hung UpMinutos: 4Segundos: 30Calidad: 128Precio: 1200.0
+Nombre: Get TogetherMinutos: 4Segundos: 45Calidad: 128Precio: 1200.0
+Nombre: SorryMinutos: 5Segundos: 58Calidad: 128Precio: 1200.0
+Nombre: GalvanizeMinutos: 6Segundos: 45Calidad: 256Precio: 1350.0
+Nombre: The BoxerMinutos: 5Segundos: 40Calidad: 256Precio: 1350.0
+Nombre: BelieveMinutos: 6Segundos: 12Calidad: 256Precio: 1350.0
+Nombre: Is This ItMinutos: 4Segundos: 54Calidad: 128Precio: 1200.0
+Nombre: The Modern AgeMinutos: 4Segundos: 45Calidad: 128Precio: 1200.0
+Nombre: SomaMinutos: 5Segundos: 40Calidad: 128Precio: 1200.0
+Nombre: Seven Nation ArmyMinutos: 4Segundos: 12Calidad: 128Precio: 1300.0
+Nombre: Black MathMinutos: 5Segundos: 40Calidad: 128Precio: 1300.0
